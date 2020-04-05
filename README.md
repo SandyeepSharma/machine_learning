@@ -5,5 +5,6 @@ Hi,
 Please find the following file 
 1) code file in .ipynb 
 2) report generated in html formate
+3) data used for the project
 
 Thanks,
